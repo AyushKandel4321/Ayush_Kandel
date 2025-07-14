@@ -1,2 +1,1 @@
-# Ayush_Kandel
-about school
+School project work.
